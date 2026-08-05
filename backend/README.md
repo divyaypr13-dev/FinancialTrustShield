@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ SEBI Investor Shield — Backend API
+# ⚙️ Financial Trust Shield — Backend API
 
 **FastAPI backend for detecting and reporting financial scams, with city-level analytics**
 
