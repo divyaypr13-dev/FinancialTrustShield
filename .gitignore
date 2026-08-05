@@ -1,0 +1,135 @@
+# ============================================
+# BACKEND IGNORES
+# ============================================
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/Pipfile
+backend/Pipfile.lock
+backend/.venv/
+backend/venv/
+backend/ENV/
+backend/env/
+backend/.Python
+backend/*.egg-info/
+backend/dist/
+backend/build/
+backend/develop-eggs/
+backend/downloads/
+backend/eggs/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/*.egg/
+backend/.installed.cfg
+backend/.coverage
+backend/htmlcov/
+backend/.tox/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.ruff_cache/
+
+# Database
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+
+# Environment variables
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# Logs
+backend/*.log
+backend/logs/
+
+# IDE
+backend/.vscode/
+backend/.idea/
+backend/*.swp
+backend/*.swo
+backend/*~
+backend/.DS_Store
+
+# ============================================
+# FRONTEND IGNORES
+# ============================================
+
+# Node
+frontend/node_modules/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+frontend/lerna-debug.log*
+frontend/package-lock.json
+frontend/yarn.lock
+frontend/pnpm-lock.yaml
+
+# Build outputs
+frontend/dist/
+frontend/build/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+frontend/.output/
+frontend/.nuxt/
+
+# Environment variables
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# IDE
+frontend/.vscode/
+frontend/.idea/
+frontend/*.swp
+frontend/*.swo
+frontend/*~
+frontend/.DS_Store
+
+# Testing
+frontend/coverage/
+frontend/.nyc_output/
+
+# ============================================
+# ROOT-LEVEL IGNORES
+# ============================================
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.log
+
+# Misc
+*.tmp
+*.temp
+*.bak
+*.cache
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Docker
+.dockerignore
+docker-compose.override.yml
