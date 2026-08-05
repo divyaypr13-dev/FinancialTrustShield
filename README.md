@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ Financial Trust Shield
-### SEBI Investor Shield
+### 
 
 **Complete application for detecting and reporting financial scams — with India heatmap analytics**
 
