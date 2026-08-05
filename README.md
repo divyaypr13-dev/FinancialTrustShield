@@ -276,30 +276,37 @@ VITE_API_BASE_URL=https://sebi-investor-shield-backend.onrender.com
 ### Dashboard View
 National dashboard with aggregate scan/report stats across platforms and cities.
 
-![National Dashboard](./screenshots/dashboard-overview.png)
+![National Dashboard](<img width="913" height="410" alt="Screenshot 2026-08-05 231335" src="https://github.com/user-attachments/assets/60547066-7f40-4368-8f9d-91534e381327" />
+
 
 ### India Heatmap — City Risk Map
 Visualize scam risk by city, filterable by High Risk / Suspicious / Safe.
 
-![City Risk Map](./screenshots/city-risk-map.png)
+![City Risk Map](<img width="889" height="404" alt="Screenshot 2026-08-05 231502" src="https://github.com/user-attachments/assets/658f2071-e1c4-42e3-8187-b0a8b8dbb382" />
+)
 
 ### Scan Analysis
 Multi-modal scan with Trust Score™ verification for links, messages, documents, audio, and video.
 
-![Scan Analysis](./screenshots/scan-analysis.png)
+![Scan Analysis](<img width="522" height="433" alt="Screenshot 2026-08-05 231837" src="https://github.com/user-attachments/assets/9befa401-ce7a-4fcb-8a5a-cb8bd72acdcb" />
+)
 
 **Trust Score breakdown** — detection signals behind the score, with recommended prevention steps.
 
-![Trust Score Breakdown](./screenshots/scan-trust-score-breakdown.png)
+![Trust Score Breakdown](<img width="402" height="431" alt="Screenshot 2026-08-05 231942" src="https://github.com/user-attachments/assets/8eb67ca1-161f-4279-a24d-b811b471c1ec" />
+)
 
 ### Report Generation — Incident Reporting
 Guided incident capture, evidence locker, and attack reconstruction, producing a copy-ready complaint.
 
-![Incident Reporting — Details & Evidence](./screenshots/incident-reporting-1.png)
+![Incident Reporting — Details & Evidence](<img width="423" height="437" alt="Screenshot 2026-08-05 232348" src="https://github.com/user-attachments/assets/88c0368a-0632-4407-bff2-eda76b7d6057" />
+)
 
-![Incident Reporting — Attack Reconstruction](./screenshots/incident-reporting-2.png)
+![Incident Reporting — Attack Reconstruction](<img width="402" height="437" alt="Screenshot 2026-08-05 232420" src="https://github.com/user-attachments/assets/be3a0edc-ddbe-4af8-bdd2-ce1e0864f58a" />
+)
 
-![Incident Reporting — Copy-Ready Complaint](./screenshots/incident-reporting-3.png)
+![Incident Reporting — Copy-Ready Complaint](<img width="390" height="429" alt="Screenshot 2026-08-05 232505" src="https://github.com/user-attachments/assets/886c37d9-bfe5-47e1-b67b-a47b42a4afd3" />
+)
 
 ---
 
