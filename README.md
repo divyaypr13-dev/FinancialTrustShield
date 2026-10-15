@@ -10,8 +10,7 @@
 [![Database](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite)](https://sqlite.org)
 [![Deployment](https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge&logo=render)](https://render.com)
 
-[Live Demo](#-screenshots) · [Report Issue](https://github.com/divyaypr13-dev/financial-trust-shield/issues) · [Backend API](https://sebi-investor-shield-backend.onrender.com)
-
+[Live Demo](https://financial-trust-shield.lovable.app.)
 </div>
 
 ---
